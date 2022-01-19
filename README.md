@@ -16,7 +16,6 @@ This is a simulated credit card transaction dataset containing legitimate and fr
 
 ## Project Structure
 
-------------
     ├── LICENSE            <- MIT License
     ├── README.md          <- The top-level README for developers using this project.
     │
@@ -43,5 +42,3 @@ This is a simulated credit card transaction dataset containing legitimate and fr
         └── data           <- Scripts to download or generate data.
             │       
             └── make_dataset.py
-     
---------
