@@ -16,20 +16,19 @@ This is a simulated credit card transaction dataset containing legitimate and fr
 
 ## Project Structure
 
-    ├── LICENSE            <- MIT License
+    ├── LICENSE            <- MIT License.
     ├── README.md          <- The top-level README for developers using this project.
     │
     ├── data
-    │   ├── interm         <- Intermediate data that has been transformed
-    │   ├── processed      <- The final, canonical data sets for modeling
-    │   └── raw            <- The original, immutable data dump
+    │   ├── interm         <- Intermediate data that has been transformed.
+    │   ├── processed      <- The final, canonical data sets for modeling.
+    │   └── raw            <- The original, immutable data dump.
     │
     │
-    ├── models             <- Trained and serialized models, model predictions, or model summaries
+    ├── models             <- Trained and serialized models, model predictions, or model summaries.
     │
-    ├── notebooks          <- Jupyter notebooks. Naming convention is a number (for ordering),
-    │                         the creator's initials, and a short `-` delimited description, e.g
-    │                         `1.0-jqp-initial-data-exploration`
+    ├── notebooks          <- Jupyter notebooks. Naming convention is a number (for ordering), and
+    │                         a short `-` delimited description, e.g `1.0-initial-data-exploration`.
     │
     ├── requirements.txt   <- The requirements file for reproducing the analysis environment using `pip`.
     ├── environment.yml    <- The configuration file for reproducing the environment using `conda`.
