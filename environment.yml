@@ -126,8 +126,11 @@ dependencies:
   - pip:
     - certifi==2021.10.8
     - charset-normalizer==2.0.9
+    - coloredlogs==15.0.1
+    - humanfriendly==10.0
     - idna==3.3
     - kaggle==1.5.12
+    - pyreadline3==3.3
     - python-slugify==5.0.2
     - requests==2.26.0
     - text-unidecode==1.3
